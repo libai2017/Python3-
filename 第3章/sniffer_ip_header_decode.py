@@ -1,3 +1,8 @@
+"""
+与书中的代码有些不同，但功能是类似的
+
+"""
+
 import socket
 import os
 import traceback
